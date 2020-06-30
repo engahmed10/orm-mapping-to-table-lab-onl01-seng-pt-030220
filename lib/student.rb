@@ -36,3 +36,4 @@ class Student
         student
     end
 end
+binding.pry
